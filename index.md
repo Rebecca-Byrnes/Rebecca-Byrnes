@@ -4,11 +4,11 @@ layout: default
 
 ## About Me
 
-Hi, I’m Rebecca Byrnes. I work at the intersection of climate policy, data, and communication. I enjoy building clear, engaging tools and content that help people understand complex systems.
+Hi, I’m Rebecca Byrnes — a cybersecurity and information security compliance professional based in Portugal. I help organizations design, implement, and mature security programs that are practical, auditable, and aligned to business goals.
 
-• Policy and research translation into visuals and stories
-• Data analysis and interactive dashboards
-• Writing and speaking on climate and markets
+• ISO/IEC 27001 implementation and internal audits
+• SOC 2 readiness, control design, and evidence collection
+• Risk management aligned to ISO 27005 and NIST
 
 ## Projects
 
@@ -47,8 +47,8 @@ Hi, I’m Rebecca Byrnes. I work at the intersection of climate policy, data, an
 
 ## Contact
 
-I’m always open to collaborating or speaking.
+I’m open to consulting, full‑time roles, and collaborations.
 
-- Email: <a href="mailto:rebecca@example.com">rebecca@example.com</a>
+- Email: <a href="mailto:rebecca@rebeccabyrnes.site">rebecca@rebeccabyrnes.site</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/rebeccabyrnes" target="_blank" rel="noopener">linkedin.com/in/rebeccabyrnes</a>
-- GitHub: <a href="https://github.com/rebecca-byrnes" target="_blank" rel="noopener">github.com/rebecca-byrnes</a>
+- GitHub: <a href="https://github.com/Rebecca-Byrnes" target="_blank" rel="noopener">github.com/Rebecca-Byrnes</a>
