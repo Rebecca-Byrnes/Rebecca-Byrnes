@@ -277,6 +277,90 @@ section {
   }
 }
 
+/* Portfolio grid */
+.projects-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+}
+
+@media screen and (min-width: 680px) {
+  .projects-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.project-card {
+  background: #1f1f1f;
+  border: 1px solid #2b2b2b;
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.35);
+  display: flex;
+  flex-direction: column;
+}
+
+.project-image {
+  width: 100%;
+  padding-top: 52.5%;
+  background-size: cover;
+  background-position: center;
+  background-color: #2a2a2a;
+}
+
+.project-content {
+  padding: 14px;
+}
+
+.project-title {
+  margin: 0 0 8px 0;
+  font-size: 18px;
+  color: #fff;
+}
+
+.project-desc {
+  margin: 0 0 10px 0;
+  color: #d7cfbe;
+}
+
+.project-tags {
+  margin: 0 0 12px 0;
+}
+
+.tag {
+  display: inline-block;
+  padding: 2px 8px;
+  margin: 0 6px 6px 0;
+  font-size: 12px;
+  color: #e8e8e8;
+  background: #2b2b2b;
+  border: 1px solid #3a3a3a;
+  border-radius: 999px;
+}
+
+.project-links {
+  display: flex;
+  gap: 8px;
+}
+
+.button {
+  color: white;
+  border: 1px solid #5d910b;
+  background: linear-gradient(#93bd20, #659e10);
+  border-radius: 2px;
+  box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
+  padding: 8px 12px;
+  font-size: 14px;
+  display:inline-block;
+  text-align:center;
+}
+
+.button.ghost {
+  background: transparent;
+  border-color: #3a3a3a;
+  box-shadow: none;
+}
+
 @media print, screen and (max-width: 720px) {
 
   #title {

@@ -1,0 +1,21 @@
+ - title: Climate Policy Dashboard
+   description: Interactive dashboard summarizing climate policy data and visualizations.
+   tags: [data, visualization, policy]
+   repo_url: https://github.com/your-username/climate-policy-dashboard
+   live_url: https://your-username.github.io/climate-policy-dashboard/
+   image: /assets/images/projects/climate-dashboard.jpg
+
+ - title: Emissions Explorer
+   description: Tool to explore emissions datasets with filters and charts.
+   tags: [python, analysis]
+   repo_url: https://github.com/your-username/emissions-explorer
+   live_url: 
+   image: /assets/images/projects/emissions-explorer.jpg
+
+ - title: Article: Carbon Markets 101
+   description: Explainer article with figures on how carbon markets work.
+   tags: [writing, policy]
+   repo_url: 
+   live_url: https://your-username.medium.com/carbon-markets-101
+   image: /assets/images/projects/carbon-markets.jpg
+
