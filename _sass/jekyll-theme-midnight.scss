@@ -50,12 +50,12 @@ h3 {
 }
 
 a {
-  color:#ffcc00;
+  color:#b98aff;
   font-weight:400;
   text-decoration:none;
 
   &:hover {
-    color: #ffeb9b;
+    color: #d8c7ff;
   }
 }
 
@@ -161,15 +161,15 @@ dt {
   height: 60px;
   width: 100%;
   position: fixed;
-  background: url(../images/nav-bg.gif) #353535;
-  border-bottom: 4px solid #434343;
+  background: #2c2c34;
+  border-bottom: 4px solid #3a3a44;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
 
   nav {
     max-width: 650px;
     margin: 0 auto;
     padding: 0 10px;
-    background: blue;
+    background: transparent;
     margin: 6px auto;
 
     ul {
@@ -189,12 +189,12 @@ dt {
 
         a {
           color: white;
-          border: 1px solid #5d910b;
-          background: linear-gradient(#93bd20, #659e10);
+          border: 1px solid #6f4cc3;
+          background: linear-gradient(#9b7bff, #6f4cc3);
           border-radius: 2px;
           box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
 
-          background-color: #93bd20;
+          background-color: #8b6cf7;
           padding: 10px 12px;
           margin-top: 6px;
           line-height:14px;
@@ -203,9 +203,9 @@ dt {
           text-align:center;
 
           &:hover {
-            background: linear-gradient(#749619, #527f0e);
-            background-color: #659e10;
-            border: 1px solid #527f0e;
+            background: linear-gradient(#8d6dff, #5f3db3);
+            background-color: #6f4cc3;
+            border: 1px solid #5f3db3;
             box-shadow: inset 0px 1px 1px rgba(0,0,0,.2), 0px 1px 0px rgba(0,0,0,.0);
           }
         }
@@ -345,8 +345,8 @@ section {
 
 .button {
   color: white;
-  border: 1px solid #5d910b;
-  background: linear-gradient(#93bd20, #659e10);
+  border: 1px solid #6f4cc3;
+  background: linear-gradient(#9b7bff, #6f4cc3);
   border-radius: 2px;
   box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
   padding: 8px 12px;
